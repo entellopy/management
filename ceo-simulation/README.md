@@ -19,7 +19,7 @@ In an era shaped by technological disruption, shifting labor dynamics, and syste
 #### Outputs  
 The simulation generates time-series data and visualizations comparing CEO performance across revenue and morale. A radar chart summarizes leadership traits for strategic interpretation.
 
-<img src="/assests/ceo_lab.png" alt="My Photo" width="700"/>
+!<img src="/assests/ceo_lab.png" alt="My Photo" width="700"/>
 
 
 #### Getting Started  
